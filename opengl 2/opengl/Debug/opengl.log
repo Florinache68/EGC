@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\student\Desktop\PG\opengl 2\opengl\main.cpp(15,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\student\Desktop\PG\opengl 2\opengl\main.cpp(48,18): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  opengl.vcxproj -> C:\Users\student\Desktop\PG\opengl 2\Debug\opengl.exe
